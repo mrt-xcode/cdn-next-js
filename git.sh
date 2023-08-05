@@ -1,0 +1,1 @@
+git add . && git commit -m "update"&& git pull && git tag 1.0.0 --force && git push --tag --force && git push
