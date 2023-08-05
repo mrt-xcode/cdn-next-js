@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5223],{23413:function(n,e,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/asset/opname",function(){return u(18098)}])},18098:function(n,e,u){"use strict";u.r(e);var t=u(85893);u(67294);let _=()=>(0,t.jsx)("div",{children:"Opname"});e.default=_}},function(n){n.O(0,[9774,2888,179],function(){return n(n.s=23413)}),_N_E=n.O()}]);
+//# sourceMappingURL=opname-f76f18d7d2f0d767.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7861],{75283:function(r,t,s){s.r(t);var e=s(85893),a=s(17594),h=s(67294);class n extends h.Component{static getDerivedStateFromError(r){return{hasError:!0}}render(){return this.state.hasError?(0,e.jsx)(a.GH,{handleBack:()=>this.setState({hasError:!1}),status:500}):this.props.children}constructor(r){super(r),this.state={hasError:!1}}}t.default=n}}]);
+//# sourceMappingURL=7861.3f5adcafb6c41669.js.map
